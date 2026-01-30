@@ -18,3 +18,11 @@
     <p>
   </a>
 <br>
+<h2>Git basics</h2>
+<br> <br>
+<a href="https://blogwithrushi.hashnode.dev/git-basics">
+      <p align=center>
+      <img width = "500px" alt="Network blocking " src="./assets/blog-3.png">
+    <p>
+  </a>
+<br>
