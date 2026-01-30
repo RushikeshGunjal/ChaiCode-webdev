@@ -10,7 +10,7 @@
     <p>
   </a>
   <br>
-<h2>Dns Resolution Works</h1>
+<h2>DNS Resolution Works</h1>
 <br> <br>
 <a href="https://blogwithrushi.hashnode.dev/dns-resolution-works">
       <p align=center>
@@ -18,7 +18,7 @@
     <p>
   </a>
 <br>
-<h2>Git basics</h2>
+<h2>Git Basics</h2>
 <br> <br>
 <a href="https://blogwithrushi.hashnode.dev/git-basics">
       <p align=center>
