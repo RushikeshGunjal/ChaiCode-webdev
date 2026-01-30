@@ -6,7 +6,7 @@
 <br> <br>
 <a href="https://blogwithrushi.hashnode.dev/understanding-network-devices">
       <p align=center>
-      <img width = "500px" alt="Network blocking " src="blog-1.png">
+      <img width = "500px" alt="Network blocking " src="./assets/blog-1.png">
     <p>
   </a>
 
